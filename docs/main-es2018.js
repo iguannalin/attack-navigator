@@ -142,7 +142,7 @@ TacticCellComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/alin/Desktop/projects/attack-navigator/nav-app/src/main.ts */"zUnb");
+module.exports = __webpack_require__(/*! /Users/alin/Desktop/attack-navigator/nav-app/src/main.ts */"zUnb");
 
 
 /***/ }),
@@ -9451,7 +9451,7 @@ const hasCookie = function (key) {
  * @param {string} key to delete
  */
 const deleteCookie = function (key) {
-    document.cookie = key + '=;expires=Thu, 01 Jan 1970 00:00:01 GMT;path=/;SameSite=Strict';
+    document.cookie = key + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
 };
 
 

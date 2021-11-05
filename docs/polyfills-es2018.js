@@ -255,7 +255,7 @@ module.exports = function (that, searchString, NAME) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/alin/Desktop/projects/attack-navigator/nav-app/src/polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! /Users/alin/Desktop/attack-navigator/nav-app/src/polyfills.ts */"hN/g");
 
 
 /***/ }),

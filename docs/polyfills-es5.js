@@ -3366,7 +3366,7 @@
     /***/
     function _(module, exports, __webpack_require__) {
       __webpack_require__(
-      /*! /Users/alin/Desktop/projects/attack-navigator/nav-app/node_modules/@angular-devkit/build-angular/src/webpack/es5-polyfills.js */
+      /*! /Users/alin/Desktop/attack-navigator/nav-app/node_modules/@angular-devkit/build-angular/src/webpack/es5-polyfills.js */
       "voQr");
 
       __webpack_require__(
@@ -3374,7 +3374,7 @@
       "R0gw");
 
       module.exports = __webpack_require__(
-      /*! /Users/alin/Desktop/projects/attack-navigator/nav-app/src/polyfills.ts */
+      /*! /Users/alin/Desktop/attack-navigator/nav-app/src/polyfills.ts */
       "hN/g");
       /***/
     },

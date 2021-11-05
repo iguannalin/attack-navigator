@@ -343,7 +343,7 @@
     /***/
     function _(module, exports, __webpack_require__) {
       module.exports = __webpack_require__(
-      /*! /Users/alin/Desktop/projects/attack-navigator/nav-app/src/main.ts */
+      /*! /Users/alin/Desktop/attack-navigator/nav-app/src/main.ts */
       "zUnb");
       /***/
     },
@@ -18605,7 +18605,7 @@
 
 
       var deleteCookie = function deleteCookie(key) {
-        document.cookie = key + '=;expires=Thu, 01 Jan 1970 00:00:01 GMT;path=/;SameSite=Strict';
+        document.cookie = key + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
       };
       /***/
 

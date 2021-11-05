@@ -1,14 +1,14 @@
 {
     "versions": [
         {
-            "name": "ATT&CK v10",
+            "name": "ATT&CK v10", 
             "domains": [
-                {
-                    "name": "Enterprise",
+                {   
+                    "name": "Enterprise", 
                     "data": ["https://raw.githubusercontent.com/mitre/cti/ATT%26CK-v10.0/enterprise-attack/enterprise-attack.json"]
                 },
-                {
-                    "name": "Mobile",
+                {   
+                    "name": "Mobile", 
                     "data": ["https://raw.githubusercontent.com/mitre/cti/ATT%26CK-v10.0/mobile-attack/mobile-attack.json"]
                 },
                 {
@@ -18,14 +18,14 @@
             ]
         },
         {
-            "name": "ATT&CK v9",
+            "name": "ATT&CK v9", 
             "domains": [
-                {
-                    "name": "Enterprise",
+                {   
+                    "name": "Enterprise", 
                     "data": ["https://raw.githubusercontent.com/mitre/cti/ATT%26CK-v9.0/enterprise-attack/enterprise-attack.json"]
                 },
-                {
-                    "name": "Mobile",
+                {   
+                    "name": "Mobile", 
                     "data": ["https://raw.githubusercontent.com/mitre/cti/ATT%26CK-v9.0/mobile-attack/mobile-attack.json"]
                 },
                 {
@@ -35,14 +35,14 @@
             ]
         },
         {
-            "name": "ATT&CK v8",
+            "name": "ATT&CK v8", 
             "domains": [
-                {
-                    "name": "Enterprise",
+                {   
+                    "name": "Enterprise", 
                     "data": ["https://raw.githubusercontent.com/mitre/cti/ATT%26CK-v8.2/enterprise-attack/enterprise-attack.json"]
                 },
-                {
-                    "name": "Mobile",
+                {   
+                    "name": "Mobile", 
                     "data": ["https://raw.githubusercontent.com/mitre/cti/ATT%26CK-v8.2/mobile-attack/mobile-attack.json"]
                 },
                 {
@@ -52,27 +52,27 @@
             ]
         },
         {
-            "name": "ATT&CK v7",
+            "name": "ATT&CK v7", 
             "domains": [
-                {
-                    "name": "Enterprise",
+                {   
+                    "name": "Enterprise", 
                     "data": ["https://raw.githubusercontent.com/mitre/cti/ATT%26CK-v7.2/enterprise-attack/enterprise-attack.json"]
                 },
-                {
-                    "name": "Mobile",
+                {   
+                    "name": "Mobile", 
                     "data": ["https://raw.githubusercontent.com/mitre/cti/ATT%26CK-v7.2/mobile-attack/mobile-attack.json"]
                 }
             ]
         },
         {
-            "name": "ATT&CK v6",
+            "name": "ATT&CK v6", 
             "domains": [
-                {
-                    "name": "Enterprise",
+                {   
+                    "name": "Enterprise", 
                     "data": ["https://raw.githubusercontent.com/mitre/cti/ATT%26CK-v6.3/enterprise-attack/enterprise-attack.json"]
                 },
-                {
-                    "name": "Mobile",
+                {   
+                    "name": "Mobile", 
                     "data": ["https://raw.githubusercontent.com/mitre/cti/ATT%26CK-v6.3/mobile-attack/mobile-attack.json"]
                 }
             ]
@@ -116,7 +116,7 @@
 
     "comment_color": "yellow",
 
-    "banner": "ATT&CK v10 has been released! Check out the blog post or release notes for more information.",
+    "banner": "",
 
     "features": [
         {"name": "leave_site_dialog", "enabled": true, "description": "Disable to remove the dialog prompt when leaving site."},
