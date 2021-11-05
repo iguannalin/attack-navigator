@@ -48,7 +48,8 @@ const hasCookie = function(key: string): boolean {
  * @param {string} key to delete
  */
 const deleteCookie = function(key: string) {
-    document.cookie = key + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+    console.log('DELETE COOKIE', key)
+    document.cookie = key + '=;expires=Thu, 01 Jan 1970 00:00:01 GMT;path=/;SameSite=Strict';
 }
 
 export {setCookie, getCookie, hasCookie, deleteCookie};
